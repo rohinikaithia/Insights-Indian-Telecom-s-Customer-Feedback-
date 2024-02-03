@@ -1,1 +1,2 @@
-# Insights-Indian-Telecom-s-Customer-Feedback-
+# Insights: Indian Telecom's Customer Feedback-
+Conducted a comprehensive analysis of the Indian telecommunications market using Python and various data visualization libraries. The study covered customer demographics, preferences, and opinions on network quality and service providers. Key insights include the dominance of Airtel and Jio, with customers favouring Airtel for its perceived high-quality service
